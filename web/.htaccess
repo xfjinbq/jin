@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /xfjinbq/web/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
