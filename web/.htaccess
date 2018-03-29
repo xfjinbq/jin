@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /xfjinbq/you2php-heroku/web/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
