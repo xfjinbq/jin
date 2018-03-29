@@ -1,6 +1,6 @@
 <?php
 $u="admin"; //用户名
-$p="123456"; //密码
+$p="xajinbq"; //密码
 $firstRun = 1;
 if (php_sapi_name() == "cli") {
 	$dispNewline = "\n";
